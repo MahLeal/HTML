@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sesi Senai</title>
+    <link rel="stylesheet" href="dsi.css">
+</head>
+<body>
+    <header>
+        <h1>
+            SESI
+        </h1>
+        <h2>
+            Novo Ensino Médio
+        </h2>
+    
+    </header>
+    <main>
+        <h1>
+            Novo Ensino Médio Sesi
+        </h1>
+    </main>
+    <section>
+        <h2 class="as">
+            O Sesi e o Senai Goiás iniciaram em 2018 um movimento, tendo como base o que preconiza a nova Lei do Ensino Médio, sendo pioneiros, na implementação de um currículo organizado por áreas de conhecimento e não por disciplinas, totalmente contextualizado à realidade dos estudantes e integrado à formação técnica e profissional.
+        </h2>
+    </section>
+    <section class="cont">
+       
+        <h1 class="ds">  
+            Como funciona o Novo Ensino Médio?
+        </h1>
+        <h2 class="das">
+            No novo formato, o currículo é integrado por áreas de conhecimento e dentre os itinerários propostos, inclui um específico voltado à formação técnica, que permite aos estudantes iniciarem mais cedo a vida profissional.
+        </h2>
+
+    </section>
+    <section class="cont">
+        <h1 class="das2">
+            Conheça os pilares do Novo Ensino Médio oferecidos pelo Sesi Goiás
+        </h1>
+    </section>
+    <section>
+        <button class="fsa">
+            <img src="https://static.wixstatic.com/media/40d21a_674aeac25b384830afcc79e0669a5228~mv2.jpg/v1/fill/w_414,h_414,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/icon-c-humanas.jpg" alt="">
+        </button>
+    </section>
+    <footer>
+       
+    </footer>
+</body>
+</html>
