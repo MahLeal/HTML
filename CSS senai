@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,100&display=swap');
+
+header{
+    display: flex;
+}
+header h1{
+
+    margin: 10px -7px;
+    margin-top: -10px -10px;
+    background-color: #0060A6;
+    width: 10%;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: white;
+    
+}
+header h2{
+
+    margin: 10px 10px;
+    margin-top: 15px;
+    width: 90%;
+    height: 10px;
+    color: #0060A6;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+main{
+    display: flex;
+    margin-top: -8px;
+    height: 730px;
+    justify-content: center;
+    align-items: center;
+    color: #0060A6;
+    background-image: url("asdfg.png");
+}
+main h1{
+    background-color: rgba(255, 255, 255, 0.548);
+    font-size: 80px;
+}
+
+.as{
+    display: flex;
+    justify-content: center;
+    margin: 5px auto;
+    margin-top: 40px;
+    width: 70%;
+    color: #0060A6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    
+}
+.ds{
+    width: 29%;
+    text-align: left;
+    margin: 120px 60px;
+    color: green;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+
+}
+
+.das{
+    width: 30%;
+    text-align: justify;
+    margin: 90px 250px;
+    color: #0060A6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+
+}
+
+.das2{
+    width: 29%;
+    margin: 0% auto;
+    text-align: center;
+    color: green;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+
+}
+.fsa{
+    width: 15px;
+}
+.cont{
+    display: flex;
+}
